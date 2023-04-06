@@ -52,6 +52,7 @@
 - https://ngnoid.tv (Videos, Tutorials)
 - https://3d.ngnoid.tv (3D models, .stl's)
 - https://aliexpress.com/ (Allied nation, Marketplace)
+- https://portal.ngnoid.tv/StorAge.ZeroNetX.bit/?Latest (Storage for Blender files)
 
 ## Demo videos
 - (More to come)

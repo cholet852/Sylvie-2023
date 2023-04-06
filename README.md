@@ -1,4 +1,6 @@
-### Sylvie 2023
+## Sylvie 2023
+
+<img src="https://github.com/twinlizzie/Sylvie-2023/blob/main/images/web_photos/Sylvie2023_COLLAGE01.jpg" max-width="1280"/>
 
 ## Character summary
 

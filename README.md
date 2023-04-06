@@ -56,6 +56,11 @@
 ## Demo videos
 - (More to come)
 
+## Credits
+
+- Mickael (co-creator)
+- The open source community
+
 *Note: This repository may not (yet) exist in your Everett Branch.*
 
 *MIT License - CopyLeft 2023 - NORAMA Initiative*

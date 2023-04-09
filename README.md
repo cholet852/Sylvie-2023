@@ -55,7 +55,7 @@
 - https://portal.ngnoid.tv/StorAge.ZeroNetX.bit/?Latest (Storage for Blender files)
 
 ## Demo videos
-- https://ngnoid.tv/?Channel=quantumkitty
+- https://ngnoid.tv/?Channel=quantumkitty@zeroid.bit
 - (More to come)
 
 ## Credits
